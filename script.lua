@@ -7,7 +7,8 @@ local WebhookURL = "https://discord.com/api/webhooks/1475292276417630359/-xKkhdd
 local Whitelist = {
     "yuliaNO9900",
     "jubileu9973",
-    "lucazmainzz"
+    "lucazmainzz",
+    "bunnystarmar"
 }
 
 -- VERIFY
