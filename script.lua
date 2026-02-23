@@ -8,7 +8,7 @@ local Whitelist = {
     "yuliaNO9900",
     "jubileu9973",
     "lucazmainzz",
-    "bunnystarmar"
+    "BunnyStarmar"
 }
 
 -- VERIFY
