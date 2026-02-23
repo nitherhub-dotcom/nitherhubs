@@ -5,9 +5,9 @@ local LocalPlayer = Players.LocalPlayer
 -- WHITELIST
 local WebhookURL = "https://discord.com/api/webhooks/1475292276417630359/-xKkhddbWRobqhwCkNq-paApzVrW8lOoI1YAL4IZN1pIHQYw6OGa9fsTOP4eJFj34rZm"
 local Whitelist = {
-    "SeuNomeAqui",
-    "Cliente1",
-    "NitherHubOwner"
+    "yuliaNO9900",
+    "jubileu9973",
+    "lucazmainzz"
 }
 
 -- VERIFY
